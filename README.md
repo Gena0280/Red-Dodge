@@ -11,7 +11,7 @@
 * Score affiché en temps réel.
 * Difficulté croissante : les ennemis deviennent plus rapides et plus grands lorsque vous collectez des bonus.
 
-![Gameplay Screenshot](images/gameplay.png)
+![Gameplay Screenshot](/image.png)
 
 ## 🎮 Contrôles
 
