@@ -1,6 +1,6 @@
 # Red Ball Escape
 
-![Red Ball Escape Banner](images/banner.png)
+![Red Ball Escape Banner](/banner.png)
 
 **Red Ball Escape** est un jeu d'arcade dynamique combinant des éléments de [Agar.io](https://fr.wikipedia.org/wiki/Agar.io) et [Pac-Man](https://fr.wikipedia.org/wiki/Pac-Man). Le joueur contrôle une balle, évite les ennemis rouges et collecte des bonus pour marquer des points.
 
