@@ -53,8 +53,8 @@ python main.py
 
 ## 🌟 Captures d'écran
 
-![Menu](images/Screenshot 2025-10-16 013742.png)
-![Gameplay](images/gameplay.png)
+![Menu](images/Screenshot.png)
+
 
 ## 📚 Liens utiles
 
