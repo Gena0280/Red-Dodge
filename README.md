@@ -64,3 +64,5 @@ python main.py
 ---
 
 © 2025 Red Ball Escape. Tous droits réservés.
+
+**Created by groupe A : Mykhaïlo - Andgel - Normann**
