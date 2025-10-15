@@ -53,7 +53,7 @@ python main.py
 
 ## 🌟 Captures d'écran
 
-![Menu](images/Menu.png)
+![Menu](/Menu.png)
 
 
 ## 📚 Liens utiles
